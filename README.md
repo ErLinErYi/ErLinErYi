@@ -1,3 +1,10 @@
+-  🌱 My Video Channel: [Bilibili](https://space.bilibili.com/351783071)
+-  🚀 My open source community: [Cocos2d - x Game](https://github.com/ErLinErYi/PlantsVsZombies)
+-  😄 My game website: [Website](https://gitlz.gitee.io/lz)
+-  🔭 My Gitee address：[Gitee](https://gitee.com/GITLZ/PlantsVsZombies)
+  
+![My github stats](https://github-readme-stats.vercel.app/api?username=ErLinErYi&show_icons=true)
+
 <!--
 **ErLinErYi/ErLinErYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
